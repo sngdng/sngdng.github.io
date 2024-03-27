@@ -13,7 +13,7 @@ main:
   - title: "Learning from Multiple Sources for Data-to-Text and Text-to-Data"
     authors: <strong>Song Duong</strong>, Alberto Lumbreras, Mike Gartrell, Patrick Gallinari
     conference_short: AISTATS
-    conference: 26th International Conference on Artificial Intelligence and Statistics, <strong>(AISTATS)</strong>, 2022.
+    conference: 26th International Conference on Artificial Intelligence and Statistics, <strong>(AISTATS)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2302.11269.pdf
     code: https://github.com/sngdng/MSUnsupVAE
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
