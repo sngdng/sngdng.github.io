@@ -8,7 +8,7 @@ main:
     code: https://github.com/flbbb/locost-summarization
     bibtex: https://aclanthology.org/2024.eacl-long.69/
     image: ./assets/img/locost_teaser.jpg
-    notes: Best Paper Award :trophy:
+    notes: "Best Paper Award :trophy:"
 
   - title: "Learning from Multiple Sources for Data-to-Text and Text-to-Data"
     authors: <strong>Song Duong</strong>, Alberto Lumbreras, Mike Gartrell, Patrick Gallinari
