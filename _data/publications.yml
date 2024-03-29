@@ -1,14 +1,14 @@
 main:
 
   - title: "LOCOST: State-Space Models for Long Document Abstractive Summarization"
-    authors: Florian Le Bronnec*, <strong>Song Duong*</strong>, Mathieu Ravaut, Alexandre Allauzen, Nancy F. Chen, Vincent Guigue, Alberto Lumbreras, Laure Soulier, Patrick Gallinari (* equal contribution)
-    conference_short: EACL2024
+    authors: Florian Le Bronnec*, <strong>Song Duong*</strong>, Mathieu Ravaut, Alexandre Allauzen, Nancy F. Chen, Vincent Guigue, Alberto Lumbreras, Laure Soulier, Patrick Gallinari (*equal contribution)
+    conference_short: EACL
     conference: 18th Conference of the European Chapter of the Association for Computational Linguistics, <strong>(EACL)</strong>, 2024.
     pdf: https://arxiv.org/abs/2401.17919.pdf
     code: https://github.com/flbbb/locost-summarization
     bibtex: https://aclanthology.org/2024.eacl-long.69/
     image: ./assets/img/locost_teaser.jpg
-    notes: Best Paper Award
+    notes: Best Paper Award :trophy:
 
   - title: "Learning from Multiple Sources for Data-to-Text and Text-to-Data"
     authors: <strong>Song Duong</strong>, Alberto Lumbreras, Mike Gartrell, Patrick Gallinari
