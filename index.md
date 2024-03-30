@@ -4,11 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a 2nd year Ph.D. student at Criteo and CNRS-ISIR, Sorbonne University, under the direction of Patrick Gallinari. My PhD research revolves around the design of models that can generate text from structured data, such as tables or knowledge graphs. Lately, I have been working on the development of efficient architectures. I am also interested in large language models and their applications to various NLP tasks.
+I am a 2nd year Ph.D. student at Criteo and CNRS-ISIR, Sorbonne University, under the direction of [**Patrick Gallinari**](https://pages.isir.upmc.fr/gallinari/) and [**Alberto Lumbreras**](https://albertolumbreras.net/). 
+
+My PhD research revolves around the design of models that can generate text from structured data, such as tables or knowledge graphs. Lately, I have been working on the development of efficient architectures. I am also interested in large language models and their applications to various NLP tasks.
 
 ## Research Interests
 
-- **Natural Language Processing:** : large language models, efficient architectures, data-to-text generation.
+- **Natural Language Processing:** large language models, efficient architectures, data-to-text generation.
 
 ## News
 
