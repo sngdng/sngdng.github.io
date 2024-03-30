@@ -4,19 +4,20 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a 2nd year Ph.D. student at Criteo and CNRS-ISIR, Sorbonne University, under the direction of Patrick Gallinari. My PhD research revolves around the design of models that can generate text from structured data, such as tables or knowledge graphs. Lately, I have been working on the development of efficient architectures. I am also interested in large language models and their applications to various NLP tasks.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Natural Language Processing:** : large language models, efficient architectures, data-to-text generation.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2024]** Our paper 'LOCOST' is honored with the Best Paper Award. :trophy:
+- **[Feb. 2024]** Our paper 'LOCOST' is accepted and selected for an oral presentation at EACL 2024.
+- **[July. 2023]** Attending virtually the OxML 2023 summer school.
+- **[Feb. 2023]** Our paper on learning from multiple sources is accepted at AISTATS 2023.
+- **[Jan. 2023]** Attending virtually the ALPS 2023 winter school.
+
 
 {% include_relative _includes/publications.md %}
 
