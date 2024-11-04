@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a 2nd year Ph.D. student at Criteo and CNRS-ISIR, Sorbonne University, under the direction of [**Patrick Gallinari**](https://pages.isir.upmc.fr/gallinari/) and [**Alberto Lumbreras**](https://albertolumbreras.net/). 
+I am a 3rd year Ph.D. student at Criteo and CNRS-ISIR, Sorbonne University, under the direction of [**Patrick Gallinari**](https://pages.isir.upmc.fr/gallinari/) and [**Alberto Lumbreras**](https://albertolumbreras.net/). 
 
-My PhD research revolves around the design of models that can generate text from structured data, such as tables or knowledge graphs. Lately, I have been working on the development of efficient architectures. I am also interested in large language models and their applications to various NLP tasks.
+My PhD research revolves around the design of models that can generate text from structured data, such as tables or knowledge graphs. Lately, I have worked on the development of efficient architectures. I currently work on LLMs and their applications to various NLP tasks.
 
 ## Research Interests
 
