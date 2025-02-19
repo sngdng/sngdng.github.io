@@ -1,4 +1,12 @@
 main:
+  - title: "SCOPE: A Self-supervised Framework for Improving Faithfulness in Conditional Text Generation"
+    authors: <strong>Song Duong*</strong>, Florian Le Bronnec*, Alexandre Allauzen, Vincent Guigue, Alberto Lumbreras, Laure Soulier, Patrick Gallinari (*equal contribution)
+    conference_short: ICLR
+    conference: 13th International Conference on Learning Representations, <strong>(ICLR)</strong>, 2025.
+    pdf: https://arxiv.org/abs/2401.17919.pdf
+    code: https://github.com/sngdng/scope-faithfulness
+    bibtex: https://openreview.net/forum?id=dTkqaCKLPp
+    image: ./assets/img/method_horizontal.pdf
 
   - title: "LOCOST: State-Space Models for Long Document Abstractive Summarization"
     authors: Florian Le Bronnec*, <strong>Song Duong*</strong>, Mathieu Ravaut, Alexandre Allauzen, Nancy F. Chen, Vincent Guigue, Alberto Lumbreras, Laure Soulier, Patrick Gallinari (*equal contribution)
