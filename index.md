@@ -14,12 +14,13 @@ My PhD research revolves around the design of models that can generate text from
 
 ## News
 
-- **[Jan. 2025]** Our new paper 'SCOPE' is accepted at ICLR 2025.
+- **[Apr. 2025]** Attended the ALPS 2025 winter school. 🏔️
+- **[Jan. 2025]** Our paper 'SCOPE' is accepted at ICLR 2025.
 - **[Mar. 2024]** Our paper 'LOCOST' is honored with the Best Paper Award. :trophy:
 - **[Feb. 2024]** Our paper 'LOCOST' is accepted and selected for an oral presentation at EACL 2024.
-- **[July. 2023]** Attending virtually the OxML 2023 summer school.
+- **[July. 2023]** Attended virtually the OxML 2023 summer school.
 - **[Feb. 2023]** Our paper on learning from multiple sources is accepted at AISTATS 2023.
-- **[Jan. 2023]** Attending virtually the ALPS 2023 winter school.
+- **[Jan. 2023]** Attended virtually the ALPS 2023 winter school.
 
 
 {% include_relative _includes/publications.md %}
