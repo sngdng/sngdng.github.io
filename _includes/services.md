@@ -3,6 +3,8 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 5px;">
+  <li><a href="https://neurips.cc/Conferences/2025/"><autocolor>39th Annual Conference on Neural Information Processing Systems (NeurIPS) 2025
+(ICLR) 2025</autocolor></a></li>
   <li><a href="https://iclr.cc/"><autocolor>13th International Conference on Learning Representations
 (ICLR) 2025</autocolor></a></li>
   <li><a href="https://iclr.cc/"><autocolor>12th International Conference on Learning Representations
