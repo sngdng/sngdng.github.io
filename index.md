@@ -10,7 +10,7 @@ Previously I was a Ph.D. student at Criteo and CNRS-ISIR, Sorbonne University, u
 
 ## Research Interests
 
-- **Natural Language Processing:** LLMs, efficient architectures, post-training (alignment)
+- **Natural Language Processing:** LLMs, efficient architectures, Post-Training
 
 ## News
 
