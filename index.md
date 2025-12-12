@@ -14,6 +14,7 @@ Previously I was a Ph.D. student at Criteo and CNRS-ISIR, Sorbonne University, u
 
 ## News
 
+- **[Dec. 2025]** LFM2 tech report is out !
 - **[Jul. 2025]** Joined Liquid AI as a Member of Technical Staff, Post-Training.
 - **[Jul. 10th 2025]** Succesfully defended my PhD 🎉 ([Link to recording](https://www.youtube.com/live/CYGxEinCOoY))
 - **[Apr. 2025]** Attended the ALPS 2025 winter school. 🏔️

@@ -1,4 +1,10 @@
 main:
+  - title: "LFM2 Technical Report"
+    authors: Liquid AI (2025)
+    pdf: https://www.arxiv.org/pdf/2511.23404
+    bibtex: https://www.arxiv.org/abs/2511.23404
+    image: ./assets/img/LFM2.png
+
   - title: "SCOPE: A Self-supervised Framework for Improving Faithfulness in Conditional Text Generation"
     authors: <strong>Song Duong*</strong>, Florian Le Bronnec*, Alexandre Allauzen, Vincent Guigue, Alberto Lumbreras, Laure Soulier, Patrick Gallinari (*equal contribution)
     conference_short: ICLR
