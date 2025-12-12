@@ -20,8 +20,6 @@ Previously I was a Ph.D. student at Criteo and CNRS-ISIR, Sorbonne University, u
 - **[Apr. 2025]** Attended the ALPS 2025 winter school. 🏔️
 - **[Jan. 2025]** Our paper 'SCOPE' is accepted at ICLR 2025.
 - **[Mar. 2024]** Our paper 'LOCOST' is honored with the Best Paper Award. :trophy:
-- **[Feb. 2024]** Our paper 'LOCOST' is accepted and selected for an oral presentation at EACL 2024.
-
 
 {% include_relative _includes/publications.md %}
 
