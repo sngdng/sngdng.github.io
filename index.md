@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I am a Member of Technical Staff at [**Liquid AI**](https://www.liquid.ai/) in the Post-Training team.
+I am a Member of Technical Staff at [**Liquid AI**](https://www.liquid.ai/) doing **Post-Training**, mostly bullying models into good behaviour with RL.
 
 Previously I was a Ph.D. student at Criteo and CNRS-ISIR, Sorbonne University, under the supervision of [*Patrick Gallinari*](https://pages.isir.upmc.fr/gallinari/) and [*Alberto Lumbreras*](https://albertolumbreras.net/). My research focused on building faithful and efficient text generation models from structured/unstructed data.
 
 ## Research Interests
 
-- **Natural Language Processing:** LLMs, efficient architectures, Post-Training
+- **NLP:** LLMs, efficient architectures, Post-Training, RL
 
 ## News
 
